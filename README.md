@@ -16,13 +16,13 @@
 
 I turn raw data into decisions. My work sits at the intersection of SQL analytics, Python-based data pipelines, and machine learning — with a focus on answering real business questions, not just running models.
 
-- Building a **data analytics portfolio** covering SQL, EDA, business intelligence, and ML
+- Building a **data analytics portfolio** covering SQL, EDA, statistics, and ML
 - Comfortable across the full stack: raw data → SQL → Python → visualization → insight
 - Based in **Istanbul, Turkey**
 
 ---
 
-### Featured Project
+### Featured Projects
 
 <table>
   <tr>
@@ -51,6 +51,36 @@ I turn raw data into decisions. My work sits at the intersection of SQL analytic
       <br/>
       <a href="https://github.com/sualpsudas/olist-ecommerce-analytics">
         <img src="https://raw.githubusercontent.com/sualpsudas/olist-ecommerce-analytics/main/images/q13_delivery_vs_score.png" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="52%" valign="top">
+      <h3><a href="https://github.com/sualpsudas/olist-statistics-science">Statistics Science with Real E-Commerce Data</a></h3>
+      <p>Statistical analysis from the ground up using 100K+ Olist orders. Covers basic through advanced statistics — hypothesis testing, regression, ANOVA, bootstrap, A/B testing, and power analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/statsmodels-lightgrey"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
+      </p>
+      <b>Highlights</b>
+      <ul>
+        <li>26 statistical methods: t-test, chi-square, ANOVA, Tukey HSD, Kruskal-Wallis</li>
+        <li>Bootstrap CI with 10,000 resamples — ±R$1 at 95% confidence (n > 90K)</li>
+        <li>A/B test: on-time vs late delivery score gap of 1.72 points (p &lt; 0.001)</li>
+        <li>18 visualizations across 3 Jupyter notebooks</li>
+      </ul>
+    </td>
+    <td width="48%" valign="top">
+      <a href="https://github.com/sualpsudas/olist-statistics-science">
+        <img src="https://raw.githubusercontent.com/sualpsudas/olist-statistics-science/master/images/03_bootstrap.png" width="100%"/>
+      </a>
+      <br/>
+      <a href="https://github.com/sualpsudas/olist-statistics-science">
+        <img src="https://raw.githubusercontent.com/sualpsudas/olist-statistics-science/master/images/02_correlation_heatmap.png" width="100%"/>
       </a>
     </td>
   </tr>
